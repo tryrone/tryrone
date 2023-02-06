@@ -8,7 +8,7 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [tegararuvwe@gmail.com](mailto:tegararuvwe@gmail.com)
-*   🚀  I'm currently working on [Chowdeck](http://https://chowdeck.studio/)
+*   🚀  I'm currently working on [Sabi](https://sabi.am)
 *   🧠  I'm learning about AWS Solutions Architecture and DSA
 *   🤝  I'm open to collaborating on interesting projects### Skills 
 <p align="left">
