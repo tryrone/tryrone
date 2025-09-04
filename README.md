@@ -6,7 +6,7 @@ Javascript Engineer
 
 Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements.
 
-*   🌍  I'm based in Lagos, Nigeria
+*   🌍  I'm based in London, United Kingdom
 *   ✉️  You can contact me at [tegararuvwe@gmail.com](mailto:tegararuvwe@gmail.com)
 *   🚀  I'm currently working on [Sabi](https://sabi.am)
 *   🧠  I'm learning about AWS Solutions Architecture and DSA
